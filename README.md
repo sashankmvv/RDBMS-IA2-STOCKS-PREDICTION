@@ -26,6 +26,7 @@ To run the code.
 1)Download the zip folder
 2)Go to VSCODE
 3)File->Open folder->Select the folder(make sure that the csv file and jupyter notebook are in the same folder).
-4)Go the last cell and select run all the above cells.
+4)In the second cell i.e. pd.read_csv(""), mention the path name of the csv file.
+5)Go the last cell and select run all the above cells.
 
 ```
