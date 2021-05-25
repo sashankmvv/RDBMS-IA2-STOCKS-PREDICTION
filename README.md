@@ -1,11 +1,4 @@
-# RDBMS-IA2-STOCKS-PREDICTION
-## Student details
-```
-Name:Sashank
-Class: Comps A2
-Roll number:1911028
-Course:RDBMS
-College Name: KJ SOMAIYA COLLEGE OF ENGINEERING
+
 ```
 
 ## Installation
